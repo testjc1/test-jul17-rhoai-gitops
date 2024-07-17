@@ -1,0 +1,4 @@
+kind: ServiceAccount
+apiVersion: v1
+metadata:
+  name: test-july17-rhoai-dsp-job
